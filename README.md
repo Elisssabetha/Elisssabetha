@@ -1,15 +1,8 @@
 # Hi , I'm Elizaveta Karankevich 👋 
-<p align="center"
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000FF&lines=I'm+Python+developer+student)](https://git.io/typing-svg)
-</p>
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 
 ## About Me :
 
-- 🎓 Studing for Python Developer at [SkyPro](https://sky.pro/)
+- 🎓 Junior Web-Developer
 - 🏡 Lives in **Moscow, Russia**
 - ⚡ Fun Facts : 🐈 🏎️ ⚽ 🎥 ✈️
 
@@ -24,15 +17,20 @@
 
 ## 🛠️ My Skills
 <p align="center">
-<img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><br>
-  
-<img src="https://img.shields.io/badge/Pytest-blue?style=plastic&logo=Pytest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgresql-white?style=plastic&logo=postgresql&logoColor=Aquamarine"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
 <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
 <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+<img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img alt="Sass" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
+	
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/> 
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-blue?style=plastic&logo=Pytest&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postgresql-white?style=plastic&logo=postgresql&logoColor=Aquamarine"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+
+<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+
 </p>
 <hr>
 <div class="row">
